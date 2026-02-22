@@ -125,7 +125,7 @@ i32 main(void)
     
     
     
-    GFX_Font font = GFX_CreateFont("assets//JetBrainsMono-Regular.ttf",
+    GFX_Font font = GFX_CreateFont("JetBrainsMono-Regular.ttf",
                                    30);
     
     u8* text_contents = "Left click to open a chip-8 ROM.\nRight-click to switch ROM file upon loading.";
